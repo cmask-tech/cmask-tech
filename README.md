@@ -1,12 +1,4 @@
 - 👋 Hi, I’m @cmask-tech
 - 👀 I’m interested in nothing at all...
 - 🌱 I’m currently asleep.😂😂😂😂 kidding...
-- 💞️ ...
-- 📫 How to reach me ... watsapp only
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... aint cool.🤔😳😤😤😤😮💀💀💀💀💀
-
-<!---Fear legion lord
-cmask-tech/cmask-tech is a idiot 💬
-📣📣📣💬🗯🗯🗯🗯💀💀💀💀💀💀💀💀💀💀💀👻💀.
---->
+![3D Text](cooltext481669813075406.png)
