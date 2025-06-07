@@ -11,3 +11,7 @@
 <p align="center">A HUG IS WORTH MORE THAN A HANDSHAKE <br> REMEMBER SO!</p></b>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
+
+<p align="center">
+ <a href="wa.me/254750735511>find me</a>
+</p>
