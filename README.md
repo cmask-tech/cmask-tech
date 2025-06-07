@@ -1,4 +1,4 @@
-<b><p text-align="center">Cmask_Tech</p></b>
+<b><p align="center">Cmask_Tech</p></b>
 <br>
 <hr>
-<img>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
