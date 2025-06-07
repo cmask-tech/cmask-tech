@@ -12,6 +12,8 @@
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
-<p align="center">
- <a href="wa.me/254750735511>find me</a>
+
+<a href="wa.me/254750735511>
+<p align="center">Find me
 </p>
+</a>
