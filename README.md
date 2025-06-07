@@ -1,5 +1,1 @@
-![Imageimagin](asset/cooltext481669813075406.png)
-- 👋 Hi, I’m @cmask-tech
-- 👀 I’m interested in nothing at all...
-- 🌱 I’m currently asleep.😂😂😂😂 kidding...
-![💀](asset/cooltext481669813075406.png)
+<p text-align: center;>Cmask_Tech</p>
